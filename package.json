@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "BROWSER='C:/Program Files/Google/Chrome/Application' vite",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
